@@ -1,0 +1,9 @@
+name: Newyear2026
+version: '${project.version}'
+main: quanquan.newyear2026.Newyear2026
+api-version: '1.19'
+commands:
+  makeDumpling:
+    description: Make a dumpling.
+  eatDumpling:
+    description: Eat a dumpling.
