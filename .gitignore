@@ -1,0 +1,39 @@
+# macOS specific files
+.DS_Store
+.idea/
+.AppleDouble
+.LSOverride
+
+# macOS system files
+Icon?
+._*
+
+# Maven specific files
+target/
+*.log
+*.iml
+.idea/
+*.class
+
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+out/
+
+# General files
+*.jar
+*.war
+*.ear
+*.class
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+
+# Logs
+logs/
+*.log
+
+# Minecraft plugin specific
+plugins/
